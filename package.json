@@ -1,0 +1,22 @@
+{
+  "name": "g-room",
+  "version": "1.0.0",
+  "description": "GRoom is an opensource chat platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arnau478/GRoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arnau478/GRoom/issues"
+  },
+  "homepage": "https://github.com/Arnau478/GRoom#readme",
+  "dependencies": {
+    "socket.io": "^3.0.4"
+  }
+}
